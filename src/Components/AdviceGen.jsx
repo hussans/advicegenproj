@@ -32,10 +32,10 @@ const AdviceGenerator = () => {
         {`"${advice.text}"`}
       </blockquote>
       <div className="mb-10">
-        <img src="./public/pattern-divider-desktop.svg" alt="divider" className="mx-auto w-full" />
+        <img src="../public/pattern-divider-desktop.svg" alt="divider" className="mx-auto w-full" />
       </div>
       <button onClick={fetchNewAdvice} className="absolute -bottom-8 left-1/2 -translate-x-1/2 bg-[#53ffab] p-5 rounded-full hover:shadow-[0_0_15px_0] hover:shadow-[#53ffab] transition-all duration-200" >
-        <img className="w-7 h-7" src="./public/icon-dice.svg" alt="dice icon" />
+        <img className="w-7 h-7" src="../public/icon-dice.svg" alt="dice icon" />
       </button>
     </section>
   );
