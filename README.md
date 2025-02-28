@@ -6,9 +6,9 @@
 <br/>
 **Description**: This React app generates random advice using the Advice Slip API, featuring a responsive card design that works on all devices. Built with functional components and hooks, it displays advice text with an ID, a decorative divider, and a button to fetch new quotes. Tailwind CSS ensures clean styling while maintaining the original design's layout and interactivity, with error handling for reliable operation. Components are organized in a dedicated folder, and all provided assets are implemented as required.
 <br/>
-**Peer**: 
+**Peer**: Andrew Sayasing
 <br/>
-**Review**: 
+**Review**: Uh yep everything seems to work well, not much to say good job
 <br/>
 <br/>
 **GitHub**: https://github.com/hussans/advicegenproj
